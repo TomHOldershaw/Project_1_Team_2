@@ -1,46 +1,42 @@
 Statistical Analysis 
-1896 Olympics Athens (Greece)
+1896-1936 Olympics 
 
 Greece did well to get 52 medals in the inaugural Summer olympics but they could repeat this performance 1n 1900,1904,and 1908.
 Infact they did not win any medal in 1900.They only managed 5 medals in 1904 and 1908 Olympics.
 
+In 1900 Paris home Olympics was big boost for France. They won a huge tally of Medals which is till their best in Olympics.
+They won 185 medals which was bid difference from  previous olmpics of 1896 where they only got 11 medals. But in 
+1904 and 1908 performance was dropped to 35 and 25 medals.
+In 1924 France performance was excellent with 122 medals. It was lower than previous Olympics where France won 141 medals. But it was huge difference as compare to 1912 Olympics where they Only won 25 medals. They also could manage 1/3 of medals tally in 1928,1932 and 1936 Olympics.
+USA won a whooping 394 mmedals as host of 1904 Olympics. it was a massive change from previous olympics where they managed where they managed 11 and 55 medals. Also it was far better performance than 1908 and 1912 Olympics where they managed 63 and 101 medals. But Medals Data indicates that they were coming as a dominant force in Olympics.
+In 1932 Los Angeles Olympics USA got 181 medals which was comperatively very high as compare to immidiate previous and next Olympics where they managed 84 and 92 medals respectively. But USA was performing in other 2 previous olympics as good as Los angeles Olympics. But 1936 and 1948 USA performance was not as good as 1932 Los Angeles Olympics.
+
+1948-1980 Olympics
+In 1952 Olympics Finland showed best performance of all times. They had more medals as compare to any of their previous or next year performances.
+
+
+In 1960 Italy home Olympics was big boost for Host. They won a huge tally of Medals which is till their best in Olympics.
+They won 88 medals which was big difference from  previous olmpics of 1956 where they only got 46 medals. But in 1964,1968 and 1972 their performance went down again.
+In 1980 Russia won 442 medals which was their best ever performance and they were host nation. there performance was down in previous and next olympics. which is similar trend but it start showing indication that there are other factors are coming into play which were more visible in next olympics.
+
+1984-2012 olympics 
+USA performed amazingly high in 1984 Los angeles Olympics where they won 333 medals. This was significantly better performance than the Olympics where they were not host nation. They won more than double of the amount of the medals as compare to previous olympics.
+it was also far better performance in coming 2 Olympics.
+
+USA won 260 medals which is same number as previous Olymics when they were host of Olympics. Their performance was outstanding as compare to previous and next Olympics. But medals difference was not as high as before. USA team even improved in olmpics of 2004 and 2008.
 2004 Olympics Athens (Greece)
 
 Greece won 31 medals in Athens 2004 Olympics which was not a very good performance as host nation but it was quite good for its own performance comperatively in previous olympics of 1996 and 2000. Also their performance in 2008 and 2012 was not as good as Athen olympics.
 
 
+These are few details of the performances of host nations in different eras. In data visualization and data analysis by Chi.square Test,it was revealed being a host nation have a huge impact on the performance of that nation.
+There is bar Chart drawn for each olympics and that gives us conclusive evidence to say being host of Olympics have gone well for the nations across the continents.We have carried a Chi.Squate test on the performance of the host nations where we put Null Hypothesis as "Host wouln't have impact on the performance",which brings us p value below 0.05. There is line chart is drawn to see % of medals won by host nations which shows % of medals won by home nations is decreasing but still it has advantage being Host.
 
 
-1900 Olympics Paris (France)
+so its concluded that being host has a positive impact on the performance of the host nation.
 
-In 1900 Paris home Olympics was big boost for France. They won a huge tally of Medals which is till their best in Olympics.
-They won 185 medals which was bid difference from  previous olmpics of 1896 where they only got 11 medals. But in 
-1904 and 1908 performance was dropped to 35 and 25 medals.
-
-1924 Olympics Paris (France)
-
-In 1924 France performance was excellent with 122 medals. It was lower than previous Olympics where France won 141 medals. But it was huge difference as compare to 1912 Olympics where they Only won 25 medals. They also could manage 1/3 of medals tally in 1928,1932 and 1936 Olympics.
+Further work could be carried on to find out some of the countries are performing extremely well even though they are not host nation.
+and impact of Top 5 performing nations on the Olympics. There could be more research done on the impact of GDP growth of nations and Olympics performances.
 
 
-1904 olympics St Louis  (USA)
-
-USA won a whooping 394 mmedals as host of 1904 Olympics. it was a massive change from previous olympics where they managed where they managed 11 and 55 medals. Also it was far better performance than 1908 and 1912 Olympics where they managed 63 and 101 medals. But Medals Data indicates that they were coming as a dominant force in Olympics.
-
-1932 olympics Los Angeles  (USA)
-
-In 1932 Los Angeles Olympics USA got 181 medals which was comperatively very high as compare to immidiate previous and next Olympics where they managed 84 and 92 medals respectively. But USA was performing in other 2 previous olympics as good as Los angeles Olympics. But 1936 and 1948 USA performance was not as good as 1932 Los Angeles Olympics.
-
-
-
-1984 olympics Los Angeles  (USA)
-
-USA performed amazingly high in 1984 Los angeles Olympics where they won 333 medals. This was significantly better performance than the Olympics where they were not host nation. They won more than double of the amount of the medals as compare to previous olympics.
-it was also far better performance in coming 2 Olympics.
-
-
-
-1996 olympics Atlanta  (USA)
-
-USA won 260 medals which is same number as previous Olymics when they were host of Olympics. Their performance was outstanding as compare to previous and next Olympics. But medals difference was not as high as before. USA team even improved in olmpics of 2004 and 2008.
-
-
+further
