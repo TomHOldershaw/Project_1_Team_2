@@ -8,7 +8,7 @@ We analysed three questions, in summary:
 3. What is the impact of being a Host country
 
 The code for the project can be found in the "Notebooks" folder, with contributions as follows:
-1. Data Exploration.ipynb - Jesse
-2. Q1.ipynb - Belinda and Choki
-3. Q2 - visualisation.ipynb - Maxwell
-4. Q3 - Tom (Dataframe and visualisation), Amjad (Statistical analysis)
+1. Data Exploration.ipynb - Jesse (data and visualisation)
+2. Q1.ipynb - Belinda and Choki (data and visualisation), Tom (statistical analysis)
+3. Q2 - visualisation.ipynb - Maxwell (data and visualisation), Tom (statistical analysis)
+4. Q3.ipynb - Tom (Dataframe and visualisation), Amjad (Statistical analysis)
