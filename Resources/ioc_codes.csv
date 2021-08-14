@@ -166,7 +166,6 @@ Nigeria,NG,NGA,566,NGR,NI,NGR,.ng
 Niue,NU,NIU,570,,NE,,.nu
 Norfolk Island,NF,NFK,574,,NF,,.nf
 North Korea,KP,PRK,408,PRK,KN,KP,.kp
-Republic of Korea,KP,PRK,408,PRK,KN,KP,.kp
 North Macedonia,MK,MKD,807,MKD,MK,MK,.mk
 Northern Mariana Islands,MP,MNP,580,,CQ,,.mp
 Norway,NO,NOR,578,NOR,NO,N,.no
@@ -213,6 +212,7 @@ Somalia,SO,SOM,706,SOM,SO,SO,.so
 South Africa,ZA,ZAF,710,RSA,SF,ZA,.za
 South Georgia and South Sandwich Islands,GS,SGS,239,,SX,,.gs
 South Korea,KR,KOR,410,KOR,KS,ROK,.kr
+Republic of Korea,KR,KOR,410,KOR,KS,ROK,.kr
 South Sudan,SS,SSD,728,,,SSD,.ss
 Spain,ES,ESP,724,ESP,SP,E,.es
 Sri Lanka,LK,LKA,144,SRI,CE,CL,.lk
